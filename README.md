@@ -1,1 +1,15 @@
-# codeAlpha--imagegallery
+# CodeAlpha Image Gallery
+A responsive image gallery built using HTML, CSS, and JavaScript.
+
+## Features
+- Responsive Design
+- Hover Effects
+- Lightbox View
+- Next/Previous Navigation
+- Smooth Transitions
+- Image Filters
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
